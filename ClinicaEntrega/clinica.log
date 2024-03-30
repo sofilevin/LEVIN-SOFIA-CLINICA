@@ -1,0 +1,379 @@
+[2024-03-20 15:53:16] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-20 15:53:16] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-20 15:57:05] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-20 15:57:05] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-20 16:09:31] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-20 16:09:31] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-20 20:35:37] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-20 20:35:37] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 00:48:31] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-21 00:48:31] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 00:58:15] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-21 00:58:15] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 00:58:36] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un paciente
+[2024-03-21 00:58:36] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un domicilio
+[2024-03-21 00:58:36] [ INFO ] [DomicilioDaoH2:43] se guardó un domicilio
+[2024-03-21 00:58:36] [ INFO ] [DomicilioDaoH2:54] Este es el id: 1
+[2024-03-21 00:58:36] [ INFO ] [DomicilioDaoH2:45] se creó el paciente1
+[2024-03-21 00:59:58] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-21 00:59:58] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 01:00:13] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un paciente
+[2024-03-21 01:00:13] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un domicilio
+[2024-03-21 01:00:13] [ INFO ] [DomicilioDaoH2:43] se guardó un domicilio
+[2024-03-21 01:00:14] [ INFO ] [DomicilioDaoH2:54] Este es el id: 1
+[2024-03-21 01:00:14] [ INFO ] [DomicilioDaoH2:45] se creó el paciente1
+[2024-03-21 01:02:24] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-21 01:02:24] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 01:02:46] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un paciente
+[2024-03-21 01:02:46] [ INFO ] [DomicilioDaoH2:25] Estamos guardando un domicilio
+[2024-03-21 01:02:46] [ INFO ] [DomicilioDaoH2:43] se guardó un domicilio
+[2024-03-21 01:02:47] [ INFO ] [DomicilioDaoH2:54] Este es el id: 1
+[2024-03-21 01:02:47] [ INFO ] [DomicilioDaoH2:45] se creó el paciente 1
+[2024-03-21 14:00:20] [ INFO ] [BD:53] se creo la tabla odontologos
+[2024-03-21 14:00:20] [ INFO ] [BD:55] se insertó un valor en la tabla odontologos
+[2024-03-21 14:02:25] [ INFO ] [OdontologoDaoH2:21] Estamos guardando un odontologo
+[2024-03-21 14:04:49] [ INFO ] [OdontologoDaoH2:93] Estamos consultando todos los Odontologos.
+[2024-03-21 19:48:25] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-21 19:48:25] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-21 19:48:25] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-21 19:48:25] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-21 19:49:17] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-21 19:49:17] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-21 19:49:17] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-21 19:49:17] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-21 19:53:26] [ INFO ] [OdontologoDaoH2:53] Estamos consultando un Odontologo.
+[2024-03-21 19:53:26] [ INFO ] [OdontologoDaoH2:79] Consultamos el odontologo con id 1
+[2024-03-21 19:53:26] [ INFO ] [DomicilioDaoH2:55] estamos consultando un paciente
+[2024-03-21 19:53:26] [ INFO ] [DomicilioDaoH2:87] consultamos el paciente 1
+[2024-03-21 22:29:33] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-21 22:29:33] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-21 22:29:33] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-21 22:29:33] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-21 22:39:07] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-21 22:39:07] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-21 22:39:07] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-21 22:39:07] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-22 16:30:02] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-22 16:30:02] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-22 16:30:02] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-22 16:30:02] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-22 16:32:18] [ INFO ] [DomicilioDaoH2:28] Estamos guardando un paciente
+[2024-03-22 16:32:18] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-22 16:32:18] [ INFO ] [DomicilioDaoH2:45] se guardó un domicilio
+[2024-03-22 16:32:18] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-22 16:32:18] [ INFO ] [DomicilioDaoH2:48] se creó el paciente 2
+[2024-03-22 16:32:25] [ INFO ] [OdontologoDaoH2:25] Estamos guardando un odontologo
+[2024-03-22 16:32:32] [ INFO ] [OdontologoDaoH2:57] Estamos consultando un Odontologo.
+[2024-03-22 16:32:32] [ INFO ] [OdontologoDaoH2:83] Consultamos el odontologo con id 1
+[2024-03-22 16:32:32] [ INFO ] [DomicilioDaoH2:57] estamos consultando un paciente
+[2024-03-22 16:32:32] [ INFO ] [DomicilioDaoH2:89] consultamos el paciente 1
+[2024-03-22 16:37:52] [ INFO ] [BD:57] se creo la tabla odontologos
+[2024-03-22 16:37:52] [ INFO ] [BD:59] se insertó un valor en la tabla odontologos
+[2024-03-22 16:37:52] [ INFO ] [BD:61] se insertó un valor en la tabla domicilios
+[2024-03-22 16:37:52] [ INFO ] [BD:63] se insertó un valor en la tabla pacientes
+[2024-03-22 16:38:04] [ INFO ] [DomicilioDaoH2:28] Estamos guardando un paciente
+[2024-03-22 16:38:04] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-22 16:38:04] [ INFO ] [DomicilioDaoH2:45] se guardó un domicilio
+[2024-03-22 16:38:04] [ INFO ] [DomicilioDaoH2:56] Este es el id del domicilio: 2
+[2024-03-22 16:38:04] [ INFO ] [DomicilioDaoH2:48] se creó el paciente 2
+[2024-03-22 16:38:07] [ INFO ] [OdontologoDaoH2:25] Estamos guardando un odontologo
+[2024-03-22 16:38:11] [ INFO ] [OdontologoDaoH2:57] Estamos consultando un Odontologo.
+[2024-03-22 16:38:11] [ INFO ] [OdontologoDaoH2:83] Consultamos el odontologo con id 1
+[2024-03-22 16:38:11] [ INFO ] [DomicilioDaoH2:57] estamos consultando un paciente
+[2024-03-22 16:38:11] [ INFO ] [DomicilioDaoH2:89] consultamos el paciente 1
+[2024-03-22 16:38:11] [ INFO ] [DomicilioDaoH2:20] estamos guardando un turno
+[2024-03-22 16:49:31] [ INFO ] [OdontologoDaoH2:25] Estamos guardando un odontologo
+[2024-03-26 20:54:51] [ ERROR] [TurnoService:42] No se encontró el turno con id 3
+[2024-03-27 13:11:38] [ ERROR] [PacienteService:41] No se encontró el turno con id 2
+[2024-03-27 13:12:26] [ ERROR] [PacienteService:41] No se encontró el paciente con id 2
+[2024-03-27 13:12:52] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-27 13:13:03] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-27 13:14:05] [ ERROR] [TurnoService:42] No se encontró el turno con id 3
+[2024-03-27 13:37:18] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-27 13:37:46] [ ERROR] [PacienteService:41] No se encontró el paciente con id 2
+[2024-03-27 13:40:43] [ ERROR] [TurnoService:28] estamos guardando el turno con id null
+[2024-03-27 13:41:36] [ INFO ] [TurnoService:28] estamos guardando un turno
+[2024-03-27 13:50:15] [ INFO ] [PacienteService:27] estamos guardando un paciente
+[2024-03-27 13:50:27] [ INFO ] [PacienteService:27] estamos guardando un paciente
+[2024-03-27 13:50:35] [ INFO ] [PacienteService:41] se encontró el paciente con id 2
+[2024-03-27 13:50:54] [ INFO ] [PacienteService:41] se encontró el paciente con id 2
+[2024-03-27 13:52:19] [ INFO ] [PacienteService:27] estamos guardando un paciente
+[2024-03-27 13:52:27] [ INFO ] [PacienteService:27] estamos guardando un paciente
+[2024-03-27 13:52:38] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-27 13:52:44] [ ERROR] [PacienteService:44] no se encontró el odontólogo con id 2
+[2024-03-27 13:52:56] [ INFO ] [PacienteService:33] estamos listando todos los pacientes
+[2024-03-27 14:00:55] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-27 14:01:25] [ ERROR] [TurnoService:42] No se encontró el turno con id 3
+[2024-03-27 15:18:53] [ ERROR] [TurnoService:42] No se encontró el turno con id 2
+[2024-03-27 15:23:36] [ ERROR] [TurnoService:42] No se encontró el turno con id 3
+[2024-03-27 15:24:54] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 3
+[2024-03-27 15:26:05] [ ERROR] [TurnoService:42] No se encontró el turno con id 2
+[2024-03-27 16:12:00] [ ERROR] [TurnoService:42] No se encontró el turno con id 2
+[2024-03-28 11:22:55] [ ERROR] [TurnoService:42] No se encontró el turno con id 2
+[2024-03-28 11:28:43] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 1
+[2024-03-28 11:37:25] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 1
+[2024-03-28 11:38:57] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-28 11:40:48] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 2
+[2024-03-28 11:51:05] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 4
+[2024-03-28 11:52:51] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 4
+[2024-03-28 11:53:40] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 11:54:04] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:03:18] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:40:40] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:42:20] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:43:48] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:43:48] [ ERROR] [TurnoService:42] No se encontró el turno con id 1
+[2024-03-28 12:45:01] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:55:24] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:58:27] [ ERROR] [PacienteService:42] no se encontró el odontólogo con id 4
+[2024-03-28 12:58:44] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 12:59:02] [ ERROR] [TurnoService:42] No se encontró el turno con id 4
+[2024-03-28 13:09:35] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:11:30] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:12:08] [ ERROR] [TurnoService:43] No se encontró el turno con id 2
+[2024-03-28 13:12:23] [ ERROR] [PacienteService:43] no se encontró el odontólogo con id 1
+[2024-03-28 13:12:29] [ ERROR] [TurnoService:43] No se encontró el turno con id 1
+[2024-03-28 13:12:50] [ ERROR] [PacienteService:43] no se encontró el odontólogo con id 1
+[2024-03-28 13:13:00] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:16:02] [ ERROR] [TurnoService:43] No se encontró el turno con id 2
+[2024-03-28 13:16:06] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:16:20] [ ERROR] [TurnoService:43] No se encontró el turno con id 2
+[2024-03-28 13:16:28] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:17:21] [ ERROR] [TurnoService:43] No se encontró el turno con id 1
+[2024-03-28 13:18:11] [ INFO ] [TurnoService:40] se encontró el paciente con id 2
+[2024-03-28 13:18:18] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:18:24] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:18:27] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:19:11] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 2
+[2024-03-28 13:19:11] [ INFO ] [TurnoService:40] se encontró el paciente con id 2
+[2024-03-28 13:19:27] [ INFO ] [TurnoService:40] se encontró el turno con id 1
+[2024-03-28 13:34:01] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:34:01] [ ERROR] [TurnoService:43] No se encontró el turno con id 2
+[2024-03-28 13:34:05] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:34:05] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:38:50] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:38:50] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 13:39:32] [ ERROR] [TurnoService:44] No se encontró el turno con id 2
+[2024-03-28 13:44:37] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:44:50] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:45:43] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:46:12] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:46:17] [ INFO ] [TurnoService:40] se encontró el paciente con id 2
+[2024-03-28 13:46:26] [ INFO ] [TurnoService:40] se encontró el paciente con id 3
+[2024-03-28 13:46:45] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:46:56] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:47:02] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:47:17] [ INFO ] [TurnoService:40] se encontró el paciente con id 3
+[2024-03-28 13:47:55] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:47:55] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:48:11] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:48:22] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:48:22] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 13:49:55] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:49:55] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 13:50:02] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:50:02] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 13:50:56] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:50:56] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:51:02] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:51:14] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:51:14] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:51:14] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:51:14] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 13:51:21] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:51:21] [ ERROR] [PacienteService:43] no se encontró el odontólogo con id 2
+[2024-03-28 13:51:28] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 13:51:28] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 13:51:28] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 13:51:28] [ INFO ] [TurnoService:58] se actualizará el turno con id 1
+[2024-03-28 14:05:24] [ ERROR] [TurnoService:44] No se encontró el turno con id 1
+[2024-03-28 14:05:41] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-28 14:05:41] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-28 14:05:48] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-28 14:05:48] [ INFO ] [TurnoService:53] se eliminará el turno con id 1
+[2024-03-30 11:26:20] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-30 11:26:25] [ INFO ] [TurnoService:40] se encontró el paciente con id 2
+[2024-03-30 11:26:28] [ ERROR] [TurnoService:43] No se encontró el turno con id 3
+[2024-03-30 11:26:32] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-30 11:26:49] [ ERROR] [TurnoService:43] No se encontró el turno con id 3
+[2024-03-30 11:26:58] [ INFO ] [TurnoService:40] se encontró el paciente con id 2
+[2024-03-30 11:27:24] [ INFO ] [TurnoService:40] se encontró el paciente con id 3
+[2024-03-30 11:27:53] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-30 11:27:56] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 2
+[2024-03-30 11:27:59] [ ERROR] [PacienteService:43] no se encontró el odontólogo con id 3
+[2024-03-30 11:28:04] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-30 11:28:22] [ ERROR] [PacienteService:43] no se encontró el odontólogo con id 3
+[2024-03-30 11:28:24] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 2
+[2024-03-30 11:29:04] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-30 11:29:12] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-30 11:29:12] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-30 11:29:40] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-30 11:29:45] [ ERROR] [TurnoService:44] No se encontró el turno con id 2
+[2024-03-30 11:29:48] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-30 11:30:39] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-30 11:30:39] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 3
+[2024-03-30 11:30:39] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-30 11:30:39] [ INFO ] [TurnoService:65] se actualizará el turno con id 1
+[2024-03-30 11:30:56] [ ERROR] [TurnoService:44] No se encontró el turno con id 2
+[2024-03-30 11:30:59] [ INFO ] [TurnoService:41] se encontró el turno con id 1
+[2024-03-30 11:30:59] [ INFO ] [TurnoService:53] se eliminará el turno con id 1
+[2024-03-30 11:31:09] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 1
+[2024-03-30 11:31:18] [ INFO ] [PacienteService:40] se encontró el odontólogo con id 3
+[2024-03-30 11:31:31] [ INFO ] [TurnoService:40] se encontró el paciente con id 1
+[2024-03-30 11:31:41] [ INFO ] [TurnoService:40] se encontró el paciente con id 3
+[2024-03-30 11:39:39] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:39:50] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:39:59] [ ERROR] [TurnoService:45] No se encontró el turno con id 2
+[2024-03-30 11:40:56] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:41:23] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:41:32] [ ERROR] [TurnoService:45] No se encontró el paciente con id 2
+[2024-03-30 11:41:39] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:41:45] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:42:00] [ ERROR] [TurnoService:45] No se encontró el paciente con id 3
+[2024-03-30 11:42:06] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:42:56] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:43:03] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:43:11] [ ERROR] [TurnoService:45] No se encontró el paciente con id 2
+[2024-03-30 11:43:16] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:43:18] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:43:24] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:43:24] [ INFO ] [TurnoService:57] estamos actualizando un paciente
+[2024-03-30 11:43:45] [ ERROR] [TurnoService:45] No se encontró el paciente con id 2
+[2024-03-30 11:43:50] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:44:53] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:44:56] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:44:57] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:45:01] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:45:01] [ INFO ] [TurnoService:58] estamos actualizando el paciente con id 1
+[2024-03-30 11:45:08] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:45:08] [ INFO ] [TurnoService:52] estamos eliminando el paciente con id1
+[2024-03-30 11:46:34] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:46:41] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:46:49] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:46:53] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:46:53] [ INFO ] [TurnoService:58] estamos actualizando el paciente con id 1
+[2024-03-30 11:46:58] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:46:58] [ INFO ] [TurnoService:52] estamos eliminando el paciente con id 1
+[2024-03-30 11:47:06] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:47:09] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:47:21] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:47:27] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:47:34] [ ERROR] [PacienteService:45] no se encontró el odontólogo con id 2
+[2024-03-30 11:47:40] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:47:43] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:47:51] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:47:51] [ INFO ] [PacienteService:58] estamos actualizando el odontologo con id 1
+[2024-03-30 11:47:56] [ ERROR] [PacienteService:45] no se encontró el odontólogo con id 3
+[2024-03-30 11:48:01] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:48:01] [ INFO ] [PacienteService:52] estamos eliminando el odontologo con id 1
+[2024-03-30 11:48:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:48:11] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:48:13] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:48:21] [ ERROR] [PacienteService:45] no se encontró el odontólogo con id 1
+[2024-03-30 11:48:29] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:48:29] [ ERROR] [TurnoService:45] No se encontró el paciente con id 1
+[2024-03-30 11:48:35] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:48:35] [ INFO ] [TurnoService:42] se encontró el paciente con id 2
+[2024-03-30 11:48:35] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:48:41] [ INFO ] [TurnoService:35] estamos listando todos los turnos
+[2024-03-30 11:48:47] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:48:52] [ ERROR] [TurnoService:46] No se encontró el turno con id 2
+[2024-03-30 11:49:08] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:49:08] [ ERROR] [PacienteService:45] no se encontró el odontólogo con id 3
+[2024-03-30 11:49:14] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:49:14] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:49:14] [ ERROR] [TurnoService:45] No se encontró el paciente con id 1
+[2024-03-30 11:49:18] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:49:18] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:49:18] [ INFO ] [TurnoService:42] se encontró el paciente con id 2
+[2024-03-30 11:49:18] [ INFO ] [TurnoService:67] se actualizará el turno con id 1
+[2024-03-30 11:49:29] [ ERROR] [TurnoService:46] No se encontró el turno con id 2
+[2024-03-30 11:49:39] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:49:39] [ INFO ] [TurnoService:55] se eliminará el turno con id 1
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:58] estamos actualizando el odontologo con id 1
+[2024-03-30 11:50:07] [ ERROR] [PacienteService:45] no se encontró el odontólogo con id 4
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:52] estamos eliminando el odontologo con id 1
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:07] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:50:20] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:58] estamos actualizando el paciente con id 1
+[2024-03-30 11:50:21] [ ERROR] [TurnoService:45] No se encontró el paciente con id 4
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:52] estamos eliminando el paciente con id 1
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:21] [ INFO ] [TurnoService:42] se encontró el paciente con id 2
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:35] estamos listando todos los turnos
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:67] se actualizará el turno con id 1
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ ERROR] [TurnoService:46] No se encontró el turno con id 4
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:55] se eliminará el turno con id 2
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:35] estamos listando todos los turnos
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:50:54] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:50:54] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:52:22] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:52:26] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:52:28] [ INFO ] [TurnoService:34] estamos listando todos los pacientes
+[2024-03-30 11:52:32] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:52:32] [ INFO ] [TurnoService:58] estamos actualizando el paciente con id 1
+[2024-03-30 11:52:35] [ INFO ] [TurnoService:42] se encontró el paciente con id 1
+[2024-03-30 11:52:35] [ INFO ] [TurnoService:52] estamos eliminando el paciente con id 1
+[2024-03-30 11:52:38] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:52:40] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:52:42] [ INFO ] [PacienteService:34] estamos listando todos los odontologos
+[2024-03-30 11:52:45] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:52:45] [ INFO ] [PacienteService:58] estamos actualizando el odontologo con id 1
+[2024-03-30 11:52:48] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 1
+[2024-03-30 11:52:48] [ INFO ] [PacienteService:52] estamos eliminando el odontologo con id 1
+[2024-03-30 11:52:51] [ INFO ] [TurnoService:28] estamos guardando un paciente
+[2024-03-30 11:52:53] [ INFO ] [PacienteService:28] estamos guardando un odontologo
+[2024-03-30 11:52:56] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:52:56] [ INFO ] [TurnoService:42] se encontró el paciente con id 2
+[2024-03-30 11:52:56] [ INFO ] [TurnoService:29] estamos guardando un turno
+[2024-03-30 11:52:59] [ INFO ] [TurnoService:35] estamos listando todos los turnos
+[2024-03-30 11:53:04] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:53:08] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:53:08] [ INFO ] [PacienteService:42] se encontró el odontólogo con id 2
+[2024-03-30 11:53:08] [ INFO ] [TurnoService:42] se encontró el paciente con id 2
+[2024-03-30 11:53:08] [ INFO ] [TurnoService:67] se actualizará el turno con id 1
+[2024-03-30 11:53:10] [ INFO ] [TurnoService:43] se encontró el turno con id 1
+[2024-03-30 11:53:10] [ INFO ] [TurnoService:55] se eliminará el turno con id 1
+[2024-03-30 11:53:13] [ ERROR] [TurnoService:46] No se encontró el turno con id 1

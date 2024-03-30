@@ -1,0 +1,17 @@
+package com.dh.entrega.ClinicaEntrega.repository;
+
+import com.dh.entrega.ClinicaEntrega.entity.Odontologo;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+
+import java.util.Optional;
+
+@Repository
+public interface IOdontologoRepository extends JpaRepository<Odontologo, Long> {
+
+// hql    @Query("SELECT o FROM Odontologo o WHERE o.matricula = ?1")
+  //jql
+    Optional<Odontologo> findByMatricula(String matricula);
+
+}
